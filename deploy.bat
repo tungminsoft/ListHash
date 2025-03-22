@@ -4,4 +4,4 @@ git add .
 git commit -a -m "."
 git push
 
-echo SUCCESS!
+echo Success!
